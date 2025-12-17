@@ -1,0 +1,26 @@
+[
+  {
+    "input": "ramah vanam gacchati",
+    "expected_top_tokens": ["ramah", "vanam", "gacchati"]
+  },
+  {
+    "input": "krishnah pustakam pathati",
+    "expected_top_tokens": ["krishnah", "pustakam", "pathati"]
+  },
+  {
+    "input": "sita phalam pashyati",
+    "expected_top_tokens": ["sita", "phalam", "pashyati"]
+  },
+  {
+    "input": "narah phalam khadati",
+    "expected_top_tokens": ["narah", "phalam", "khadati"]
+  },
+  {
+    "input": "devo'sti",
+    "expected_top_tokens": ["devah", "asti"]
+  },
+  {
+    "input": "sita ca krishnah ca",
+    "expected_top_tokens": ["sita", "ca", "krishnah", "ca"]
+  }
+]

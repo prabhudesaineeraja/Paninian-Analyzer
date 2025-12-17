@@ -1,0 +1,200 @@
+{
+  "ramah": [
+    {
+      "lemma": "rāma",
+      "pos": "NOUN",
+      "features": {"linga": "m", "vibhakti": "1", "vacana": "sg", "karaka_hint": "kartā"},
+      "confidence": 0.95,
+      "gloss": "Rama (subject)"
+    }
+  ],
+  "ramam": [
+    {
+      "lemma": "rāma",
+      "pos": "NOUN",
+      "features": {"linga": "m", "vibhakti": "2", "vacana": "sg", "karaka_hint": "karma"},
+      "confidence": 0.93,
+      "gloss": "Rama (object)"
+    }
+  ],
+  "krishnah": [
+    {
+      "lemma": "kṛṣṇa",
+      "pos": "NOUN",
+      "features": {"linga": "m", "vibhakti": "1", "vacana": "sg", "karaka_hint": "kartā"},
+      "confidence": 0.93,
+      "gloss": "Krishna"
+    }
+  ],
+  "devah": [
+    {
+      "lemma": "deva",
+      "pos": "NOUN",
+      "features": {"linga": "m", "vibhakti": "1", "vacana": "sg", "karaka_hint": "kartā"},
+      "confidence": 0.92,
+      "gloss": "god"
+    }
+  ],
+  "narah": [
+    {
+      "lemma": "nara",
+      "pos": "NOUN",
+      "features": {"linga": "m", "vibhakti": "1", "vacana": "sg", "karaka_hint": "kartā"},
+      "confidence": 0.9,
+      "gloss": "man"
+    }
+  ],
+  "sita": [
+    {
+      "lemma": "sītā",
+      "pos": "NOUN",
+      "features": {"linga": "f", "vibhakti": "1", "vacana": "sg", "karaka_hint": "kartā"},
+      "confidence": 0.93,
+      "gloss": "Sita"
+    }
+  ],
+  "gitam": [
+    {
+      "lemma": "gītā",
+      "pos": "NOUN",
+      "features": {"linga": "f", "vibhakti": "2", "vacana": "sg", "karaka_hint": "karma"},
+      "confidence": 0.78,
+      "gloss": "song (object, simplified form for demo)"
+    }
+  ],
+  "vanam": [
+    {
+      "lemma": "vana",
+      "pos": "NOUN",
+      "features": {"linga": "n", "vibhakti": "2", "vacana": "sg", "karaka_hint": "karma/adhikarana"},
+      "confidence": 0.92,
+      "gloss": "forest"
+    }
+  ],
+  "phalam": [
+    {
+      "lemma": "phala",
+      "pos": "NOUN",
+      "features": {"linga": "n", "vibhakti": "1/2", "vacana": "sg", "karaka_hint": "kartā/karma"},
+      "confidence": 0.91,
+      "gloss": "fruit"
+    }
+  ],
+  "phalani": [
+    {
+      "lemma": "phala",
+      "pos": "NOUN",
+      "features": {"linga": "n", "vibhakti": "1/2", "vacana": "pl", "karaka_hint": "kartā/karma"},
+      "confidence": 0.9,
+      "gloss": "fruits"
+    }
+  ],
+  "pustakam": [
+    {
+      "lemma": "pustaka",
+      "pos": "NOUN",
+      "features": {"linga": "n", "vibhakti": "2", "vacana": "sg", "karaka_hint": "karma"},
+      "confidence": 0.9,
+      "gloss": "book"
+    }
+  ],
+  "asti": [
+    {
+      "lemma": "as",
+      "pos": "VERB",
+      "features": {"lakara": "laT", "purusha": "3", "vacana": "sg", "pada": "parasmai"},
+      "confidence": 0.97,
+      "gloss": "is"
+    }
+  ],
+  "gacchati": [
+    {
+      "lemma": "gam",
+      "pos": "VERB",
+      "features": {"lakara": "laT", "purusha": "3", "vacana": "sg", "pada": "parasmai"},
+      "confidence": 0.96,
+      "gloss": "goes"
+    }
+  ],
+  "gacchanti": [
+    {
+      "lemma": "gam",
+      "pos": "VERB",
+      "features": {"lakara": "laT", "purusha": "3", "vacana": "pl", "pada": "parasmai"},
+      "confidence": 0.94,
+      "gloss": "go (plural)"
+    }
+  ],
+  "pathati": [
+    {
+      "lemma": "paṭh",
+      "pos": "VERB",
+      "features": {"lakara": "laT", "purusha": "3", "vacana": "sg", "pada": "parasmai"},
+      "confidence": 0.95,
+      "gloss": "reads"
+    }
+  ],
+  "pashyati": [
+    {
+      "lemma": "paś",
+      "pos": "VERB",
+      "features": {"lakara": "laT", "purusha": "3", "vacana": "sg", "pada": "parasmai"},
+      "confidence": 0.92,
+      "gloss": "sees"
+    }
+  ],
+  "khadati": [
+    {
+      "lemma": "khād",
+      "pos": "VERB",
+      "features": {"lakara": "laT", "purusha": "3", "vacana": "sg", "pada": "parasmai"},
+      "confidence": 0.9,
+      "gloss": "eats"
+    }
+  ],
+  "vadati": [
+    {
+      "lemma": "vad",
+      "pos": "VERB",
+      "features": {"lakara": "laT", "purusha": "3", "vacana": "sg", "pada": "parasmai"},
+      "confidence": 0.9,
+      "gloss": "speaks"
+    }
+  ],
+  "ca": [
+    {
+      "lemma": "ca",
+      "pos": "PART",
+      "features": {"type": "coordinator"},
+      "confidence": 0.98,
+      "gloss": "and"
+    }
+  ],
+  "na": [
+    {
+      "lemma": "na",
+      "pos": "PART",
+      "features": {"type": "negation"},
+      "confidence": 0.98,
+      "gloss": "not"
+    }
+  ],
+  "eva": [
+    {
+      "lemma": "eva",
+      "pos": "PART",
+      "features": {"type": "focus"},
+      "confidence": 0.97,
+      "gloss": "indeed/only"
+    }
+  ],
+  "atra": [
+    {
+      "lemma": "atra",
+      "pos": "ADV",
+      "features": {"type": "locative-adverb"},
+      "confidence": 0.93,
+      "gloss": "here"
+    }
+  ]
+}
